@@ -1,0 +1,16 @@
+.t-shirt{
+border: 1px solid lightblue;
+border-radius: 10px;
+padding: 10px;
+margin-top: 30px;
+}
+.t-shirt img{
+  height: 250px;
+  border-radius: 15px;
+}
+.btn-buy{
+  background-color: #98f8ff;
+}
+.btn-buy:hover{
+  background-color: #3aa7e6;
+}
