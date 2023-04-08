@@ -1,4 +1,15 @@
 nav a{
   margin-right: 15px;
-  font-size: 20px;
+  font-size: 25px;
+  text-decoration: none;
+  color: blueviolet;
+  font-weight: bold;
+}
+nav a:hover{
+  color: #3a5353;
+}
+nav{
+  text-align: center;
+  margin-top: 10px;
+  background-color: #c5c1c1;
 }
